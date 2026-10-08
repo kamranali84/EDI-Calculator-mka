@@ -1,0 +1,11 @@
+streamlit
+pandas
+openpyxl
+reportlab
+math
+io
+os
+json
+canvas
+A4
+numpy
