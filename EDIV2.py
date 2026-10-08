@@ -36,7 +36,7 @@ if not st.session_state["logged_in"]:
 
         if (
             username == "kamran"
-            and password == "admin123"
+            and password == "spiral123"
         ):
 
             st.session_state["logged_in"] = True
